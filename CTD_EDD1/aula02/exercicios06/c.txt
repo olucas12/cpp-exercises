@@ -1,0 +1,21 @@
+Estude o código a seguir e explique o que ele faz e como funciona.
+
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    int a, b;
+
+    cout << "Digite o valor de a: ";
+    cin >> a;
+
+    cout << "Digite o valor de b: ";
+    cin >> b;
+
+    a = a ^ b;
+    b = a ^ b;
+    a = a ^ b;
+
+    return 0;
+}

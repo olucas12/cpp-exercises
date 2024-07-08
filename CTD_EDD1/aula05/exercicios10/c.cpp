@@ -1,0 +1,1 @@
+﻿/*Escreva um programa que solicite ao usuário uma string e imprima essa string verticalmente. Use o objeto string de C++. Precisa obrigatoriamente usar um ponteiro para obter o endereço da variável de tipo String e utilizá-lo para fazer a impressão*/
